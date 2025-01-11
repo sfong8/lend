@@ -1,0 +1,354 @@
+28. EVENTS OF DEFAULT
+28.1 Events of Default
+Each of the events or circumstances set out in this Clause 28 (save for Clause 28.6 ( Acceleration), 
+Clause 28.7 ( Clean-up Period) and Clause 28.8 ( Excluded Matters)) and in Section 1 of Schedule 
+16 (Events of Default) shall constitute an Event of Default.
+28.2 Financial Covenant
+(a) In relation to each Revolving Facility which is a Financial Covenant Facility only, the 
+Company fails to comply with its obligations under Clause 26.2 ( Financial Condition) 
+(subject to the terms of that Clause) and:</p>
+<p>KE 39675-89:114878275.43 217 Project Neptune - Senior Facilties Agreement(i)the date falling twenty (20) Business Days after the date on which the Compliance 
+Certificate for such Testing Period was required to be delivered (the &quot;Cure 
+Period&quot;) has passed; and
+(ii)such non-compliance has not been cured or prevented pursuant to the provisions 
+of paragraph (b), (c) and/or (d) below,
+and, for the avoidance of doubt, no Default or Event of Default shall occur under this 
+paragraph (a) until the Cure Period has expired.
+(b) Equity Cure
+The Company may cure or prevent a breach of the Financial Covenant in respect of any 
+Testing Period (the &quot;Applicable Period&quot;) if, prior to the expiry of the Cure Period, the 
+Group has received one or more Cure Amounts and the Company has elected that all or any 
+part of any Cure Amounts so received shall, at the option of the Company, be:
+(i)included for the Testing Period as if provided immediately prior to such Test Date 
+by increasing the amount of Consolidated EBITDA (an &quot;EBITDA Cure&quot;) and if, 
+following such inclusion and increase, the Financial Covenant would have been 
+complied with for the Testing Period, the relevant failure to comply with the 
+Financial Covenant shall be treated as having been cured or prevented;
+(ii)included for the Testing Period as if provided immediately prior to such Test Date 
+by decreasing Senior Secured Indebtedness (a &quot;Net Debt Cure&quot;) and if, following 
+such inclusion and decrease, the Financial Covenant would have been complied 
+with for the Testing Period, the relevant failure to comply with the Financial 
+Covenant shall be treated as having been cured or prevented; or
+(iii)applied in prepayment of Loans under a Financial Covenant Facility (a 
+&quot;Prepayment Cure&quot;) and if, following such prepayment, the Test Condition is no 
+longer met, the relevant failure to comply with the Financial Covenant shall be 
+treated as having been cured or prevented,
+provided that:
+(A) the Company shall not be entitled to exercise EBITDA Cures:
+(1) on more than five (5) occasions from the Closing Date in 
+aggregate; or
+(2) more than twice in any three consecutive Relevant Periods;
+(B) there shall be no restriction on any Cure Amount exceeding the amount 
+necessary to prevent or cure the relevant failure to comply with the 
+Financial Covenant;
+(C) any Cure Amount so provided and any adjustments to Consolidated 
+EBITDA pursuant to this paragraph (b) will be taken into account for the 
+Applicable Period and each of the next three (3) successive Relevant 
+Periods;
+(D) (other than in respect of a Prepayment Cure) there shall be no requirement 
+to apply any Cure Amount in prepayment of the Facilities;
+(E) (other than for the purpose of adjusting the calculation of the Financial 
+Covenant in accordance with the provisions of this Clause 28.2), any</p>
+<p>KE 39675-89:114878275.43 218 Project Neptune - Senior Facilties AgreementEBITDA Cure or Net Debt Cure shall not count towards any other 
+calculation, permission or usage under or in respect of the Finance 
+Documents (including when calculating the applicable Margin);
+(F) (except for the Applicable Period in the case of an EBITDA Cure) the 
+cash proceeds of any Cure Amount may, to the extent remaining as cash 
+on balance sheet and without double-counting, be taken into account as 
+cash for the purposes of this Agreement (including for cash netting 
+purposes in any Applicable Metric);
+(G) in relation to any EBITDA Cure, Net Debt Cure or Prepayment Cure 
+effected:
+(1) on or prior to the delivery of the relevant Compliance Certificate 
+for the Applicable Period, the Compliance Certificate for that 
+Applicable Period shall set out the revised Financial Covenant 
+for the Applicable Period by giving effect to the adjustments to 
+Consolidated EBITDA or Senior Secured Indebtedness (as 
+applicable) under this paragraph (b), or in the case of a 
+Prepayment Cure shall confirm that the Test Condition is not met 
+and confirming that such Cure Amount has been provided 
+following the end of the Testing Period; and
+(2) following the delivery of the relevant Compliance Certificate for 
+the Applicable Period, the Company shall deliver to the Agent a 
+revised Compliance Certificate which shall set out the revised 
+Financial Covenant for the Applicable Period (or confirm that the 
+Test Condition was not met for the Applicable Period),
+and, for the avoidance of doubt, any Compliance Certificate delivered in 
+connection with a EBITDA Cure, Net Debt Cure and Prepayment Cure may also 
+reflect any Cure Amount provided and designated in accordance with paragraph 
+(c) below.
+(c) Recalculation Cure
+The Company may cure or prevent a breach of the Financial Covenant in respect of any 
+Applicable Period at any time by electing to recalculate:
+(i)the Test Condition for the Applicable Period or any subsequent date 
+(notwithstanding that such date is not a Test Date) for which the Company has 
+sufficient available information to effect such recalculation; or
+(ii)the Financial Covenant for the Applicable Period or any subsequent Relevant 
+Period (notwithstanding that such Relevant Period is not a Testing Period) for 
+which the Company has sufficient available information to effect such 
+recalculation,
+(a &quot;Recalculation&quot;) and if, taking into account such Recalculation:
+(A) the Test Condition would not be met as at the last day of the Applicable 
+Period or on any subsequent date; or
+(B) the Financial Covenant would be complied with for the Applicable Period 
+or if calculated for any subsequent Relevant Period (notwithstanding that 
+such Relevant Period is not a Testing Period),</p>
+<p>KE 39675-89:114878275.43 219 Project Neptune - Senior Facilties Agreementthe relevant failure to comply with the Financial Covenant shall be treated as 
+having been cured or prevented, provided that, in relation to any Recalculation 
+effected:
+(1) on or prior to the delivery of the relevant Compliance Certificate 
+for the Applicable Period, the Compliance Certificate for that 
+Applicable Period shall set out the revised Financial Covenant 
+for the Applicable Period following such Recalculation (or shall 
+confirm that the Test Condition is not met following such 
+Recalculation); and
+(2) following the delivery of the relevant Compliance Certificate for 
+the Applicable Period, the Company shall deliver to the Agent a 
+revised Compliance Certificate which shall set out the revised 
+Financial Covenant for the Applicable Period following such 
+Recalculation (or shall confirm that the Test Condition was not 
+met for the Applicable Period following such Recalculation),
+and, for the avoidance of doubt, any Compliance Certificate delivered in 
+connection with a Recalculation may also reflect any Cure Amount provided and 
+designated in accordance with paragraph (b) above.
+Any Recalculation pursuant to this paragraph (c) may, at the Company's option, give pro 
+forma effect to all Applicable Transactions (and any permitted adjustments to any 
+Applicable Metric in connection therewith) for which the Applicable Transaction Date has 
+occurred following the end of the Applicable Period or any subsequent Relevant Period as 
+if such Applicable Transaction had been consummated on the first day of such Applicable 
+Period or Relevant Period (as applicable).
+(d) Deemed Cure
+If the Financial Covenant has been breached, but:
+(i)is complied with when tested on any subsequent Test Date; or
+(ii)the Test Condition is not satisfied on any subsequent date (whether or not such 
+date is a Test Date),
+then, any prior breach of the Financial Covenant or any Default or Event of Default arising 
+therefrom shall not (and shall not be deemed to) directly or indirectly constitute, or result 
+in, a breach of any representation, warranty, undertaking or other term in the Finance 
+Documents or a Default or an Event of Default, unless a Declared RCF Default has arisen 
+and is continuing before delivery of the Compliance Certificate in respect of the Relevant 
+Period ending on the subsequent Test Date or the subsequent date on which the Test 
+Condition is not satisfied.
+28.3 Misrepresentation
+(a) Any material representation, warranty or written statement made or deemed to be made by 
+a Third Party Security Provider (as defined in the Intercreditor Agreement) or any Obligor 
+in any of the Finance Documents is or proves to be incorrect or misleading in any material 
+respect when made or deemed to be made (or when repeated or deemed to be repeated) by 
+reference to the facts and circumstances then existing.
+(b) No Event of Default will occur under paragraph (a) above if the circumstances giving rise 
+to that misrepresentation are remedied within twenty (20) Business Days of the giving of 
+notice by the Agent in respect of such misrepresentation.</p>
+<p>KE 39675-89:114878275.43 220 Project Neptune - Senior Facilties Agreement28.4 Invalidity and Unlawfulness
+(a) Any provision of any Finance Document is or becomes invalid or (subject to the Legal 
+Reservations and Perfection Requirements) unenforceable in any material respect or shall 
+be repudiated by any Obligor or any Third Party Security Provider or the validity or 
+enforceability of any material provision of any Finance Document shall at any time be 
+contested by any Obligor or any Third Party Security Provider and this, individually or 
+cumulatively, would materially adversely affect the interests of the Finance Parties (taken 
+as a whole) under the Finance Documents and is not remedied within twenty (20) Business 
+Days of the giving of notice by the Agent in respect of such failure.
+(b) At any time it is or becomes unlawful for any Obligor or any Third Party Security Provider 
+to perform any of its material obligations under any of the Finance Documents and this 
+individually or cumulatively would materially adversely affect the interests of the Finance 
+Parties under the Finance Documents and is not remedied within twenty (20) Business Days 
+of the giving of notice by the Agent in respect of such failure.
+28.5 Intercreditor Agreement
+(a) Topco in its capacity as &quot;Original Third Party Security Provider&quot; or &quot;Subordinated 
+Creditor&quot; (each as defined in the Intercreditor Agreement) or any other Third Party Security 
+Provider fails to comply in any material respect with the material provisions of, or does not 
+perform its material obligations under, the Intercreditor Agreement in a way which is 
+materially adverse to the interests of the Lenders taken as a whole.
+(b) No Event of Default will occur under paragraph (a) above if such failure is remedied within 
+twenty (20) Business Days from the giving of notice by the Agent in respect of such failure.
+28.6 Acceleration
+(a) Subject to Clause 4.5 ( Utilisations during the Certain Funds Period), Clause 4.6 
+(Utilisations during an Agreed Certain Funds Period) and Clause 28.7 ( Clean-up Period), 
+at any time after the occurrence of an Event of Default which is continuing (other than an 
+Event of Default which is continuing under Clause 28.2 ( Financial Covenant), save where 
+a Declared RCF Default is continuing), the Agent may, but only if so directed by the Super 
+Majority Lenders, by written notice to the Company:
+(i)terminate all or part of the availability of the Facilities whereupon the relevant part 
+of the Facilities shall cease to be available for utilisation, the relevant part of the 
+undrawn portion of the Commitments of each of the Lenders shall be cancelled 
+and no Lender shall be under any further obligation to make Utilisations under this 
+Agreement (and no further Letters of Credit may be requested under this 
+Agreement) in respect of the part of the Commitments so cancelled;
+(ii)declare all or part of the Utilisations, together with accrued interest thereon and 
+any other sum then payable under any of the Finance Documents to be immediately 
+due and payable whereupon such amounts shall become so due and payable;
+(iii)declare all or part of the Utilisations to be payable on demand whereupon the same 
+shall become payable on demand; and/or
+(iv)require the provision of cash cover whereupon each Borrower shall immediately 
+provide cash cover in an amount equal to the total contingent liability of the 
+Lenders under all Letters of Credit issued under this Agreement for its account.
+(b) Subject to Clause 4.5 ( Utilisations during the Certain Funds Period), Clause 4.6 
+(Utilisations during an Agreed Certain Funds Period) and Clause 28.7 ( Clean-up Period),</p>
+<p>KE 39675-89:114878275.43 221 Project Neptune - Senior Facilties Agreementat any time after the occurrence of an Event of Default which is continuing under Clause 
+28.2 ( Financial Covenant), the Agent may, but only if so directed by the Super Majority 
+Revolving Facility Lenders under the applicable Revolving Facility which is a Financial 
+Covenant Facility, by written notice to the Company:
+(i)terminate all or part of the availability of the applicable Revolving Facility which 
+is Financial Covenant Facility whereupon the relevant part of such Financial 
+Covenant Facility shall cease to be available for utilisation, the relevant part of the 
+undrawn portion of such Commitments under such Financial Covenant Facility of 
+each of the Lenders shall be cancelled and no Lender shall be under any further 
+obligation to make Utilisations under such Financial Covenant Facility (and no 
+further Letters of Credit under such Financial Covenant Facility may be requested 
+under this Agreement) in respect of the part of the Commitments so cancelled;
+(ii)declare all or part of the Utilisations, together with accrued interest thereon and 
+any other sum then payable under any of the Finance Documents, in respect of the 
+Revolving Facility which is Financial Covenant Facility to be immediately due and 
+payable whereupon such amounts shall become so due and payable;
+(iii)declare all or part of the Utilisations in respect of a Revolving Facility which is 
+Financial Covenant Facility to be payable on demand whereupon the same shall 
+become payable on demand; and/or
+(iv)require the provision of cash cover whereupon each Borrower shall immediately 
+provide cash cover in an amount equal to the total contingent liability of the 
+Lenders under all Letters of Credit issued under a Revolving Facility which is 
+Financial Covenant Facility for its account.
+(c) Notwithstanding paragraphs (a) and (b) above, the availability of an Additional Facility 
+and/or the Commitments in respect of an Additional Facility, may be terminated or 
+cancelled pursuant to paragraph (a)(i) or (b)(i) above (as appropriate) only by Additional 
+Facility Lenders whose Additional Facility Commitments in that Additional Facility 
+aggregate more than sixty-six and two thirds (662/3) per cent. of the Additional Facility 
+Commitments in that Additional Facility.
+(d) Subject to Clause 4.5 ( Utilisations during the Certain Funds Period), Clause 4.6 
+(Utilisations during an Agreed Certain Funds Period) and Clause 28.7 ( Clean-up Period), 
+at any time after the occurrence of an Event of Default which is continuing, an Ancillary 
+Lender or a Fronting Ancillary Lender may, but prior to the occurrence of a Declared RCF 
+Default, only if so directed by the Agent (acting on the instructions of the Super Majority 
+Revolving Facility Lenders under the applicable Revolving Facility), by written notice to 
+the Company:
+(i)terminate all or part of the availability of the Ancillary Facilities or the Fronted 
+Ancillary Facilities provided by it whereupon such Ancillary Facilities or Fronted 
+Ancillary Facilities shall cease to be available and the relevant Ancillary Lender 
+or, as the case may be, Fronting Ancillary Lender shall no longer be under any 
+obligation to provide any credit provided for thereunder;
+(ii)declare all or part of the Ancillary Outstandings in relation to the Ancillary 
+Facilities and/or the Fronted Ancillary Facilities provided by it, together with 
+accrued interest thereon and any other sum then payable under the relevant 
+Ancillary Documents to be immediately due and payable whereupon such amounts 
+shall become due and payable; and/or
+(iii)require the provision of cash cover whereupon each Borrower shall immediately 
+provide cash cover in an amount equal to the contingent liability of the relevant</p>
+<p>KE 39675-89:114878275.43 222 Project Neptune - Senior Facilties AgreementAncillary Lender or, as the case may be, Fronting Ancillary Lender under all 
+instruments issued on its behalf which (under the terms thereof) give rise to a 
+contingent liability on the part of the Ancillary Lender or, as the case may be, 
+Fronting Ancillary Lender.
+(e) Subject to Clause 4.5 ( Utilisations during the Certain Funds Period) and Clause 4.6 
+(Utilisations during an Agreed Certain Funds Period), if any Event of Default occurs under 
+sub-paragraph (e) of Section 1 of Schedule 16 ( Events of Default) in relation to a US 
+Obligor as a result of the filing of an involuntary proceeding in a court of competent 
+jurisdiction in the United States seeking relief under the United States Bankruptcy Code of 
+1978 (Title 11 of the United States Code) against such US Obligor, all of the Loans made 
+to that US Obligor, together with accrued interest and all other amounts accrued and then 
+payable by that US Obligor under the Finance Documents, shall be immediately due and 
+payable, in each case automatically and without any direction, notice, declaration or other 
+act.
+28.7 Clean-up Period
+(a) Notwithstanding any other term of the Finance Documents, for the period from the date of 
+this Agreement until the date which falls one hundred and eighty (180) days after the 
+Control Date (the &quot;Clean-up Period&quot;), any breach of a representation or warranty, breach 
+of an undertaking, Default or Event of Default, will be deemed not to be a breach of 
+representation or warranty, a breach of undertaking, a Default or an Event of Default (as 
+the case may be) if it would have been (if it were not for this provision) a breach of 
+representation or warranty, a breach of undertaking, a Default and/or an Event of Default 
+by reason of any matter or circumstance relating to the Target Group or any member of the 
+Target Group, if and for so long as the circumstances giving rise to the relevant breach of 
+representation or warranty or breach of undertakings, Default or Event of Default:
+(i)are capable of being remedied and, if the Company is aware of the relevant 
+circumstances at the time, reasonable efforts are being used to remedy such breach, 
+Default or Event of Default;
+(ii)would not have a Material Adverse Effect; and
+(iii)was not procured or approved by the Board of Directors (or equivalent body) of 
+the Company after the Acquisition Closing Date (provided that it had actual 
+knowledge thereof and that knowledge of the relevant breach does not equate to 
+procurement or approval),
+provided that if the relevant circumstances are continuing at the end of the Clean-Up 
+Period there shall (subject to Clause 1.5 ( Control Date)) be a breach of representation, 
+breach of undertaking, Default and/or Event of Default, as the case may be.
+(b) Notwithstanding any other term of the Finance Documents, for the period from the date of 
+an acquisition permitted under this Agreement (the &quot;Approved Acquisition&quot;) until the date 
+which falls one hundred and eighty (180) days after the date of such Approved Acquisition 
+(the &quot;Acquisition Clean-up Period&quot;), any breach of a representation or warranty, breach 
+of an undertaking, Default or Event of Default, will be deemed not to be a breach of 
+representation or warranty, a breach of undertaking, a Default or an Event of Default (as 
+the case may be) if it would have been (if it were not for this provision) a breach of 
+representation or warranty, a breach of undertaking, a Default and/or an Event of Default 
+by reason of any matter or circumstance relating to the person or business subject of the 
+Approved Acquisition if and for so long as the circumstances giving rise to the relevant 
+breach of representation or warranty or breach of undertaking, Default or Event of Default:</p>
+<p>KE 39675-89:114878275.43 223 Project Neptune - Senior Facilties Agreement(i)are capable of being remedied and, if any member of the Group effecting the 
+relevant Approved Acquisition is aware of the relevant circumstances at the time, 
+reasonable efforts are being used to remedy such breach, Default or Event of 
+Default;
+(ii)would not have a Material Adverse Effect; and
+(iii)was not procured or approved by the Board of Directors (or equivalent body) of 
+any member of the Group effecting the relevant Approved Acquisition (provided 
+that it had actual knowledge thereof and that knowledge of the relevant breach 
+does not equate to procurement or approval),
+provided that if the relevant circumstances are continuing at the end of the Acquisition Clean-Up 
+Period there shall (subject to Clause 1.5 ( Control Date)) be a breach of representation, breach of 
+undertaking, Default and/or Event of Default, as the case may be.
+28.8 Excluded Matters
+(a) Notwithstanding any other term of the Finance Documents:
+(i)no Permitted Transaction;
+(ii)other than in the case of a payment default under an Ancillary Document 
+constituting an Event of Default under paragraphs (a) or (b) of Section 1 of 
+Schedule 16 ( Events of Default), no breach of any representation, warranty, 
+undertaking or other term of (or default or event of default under) a Hedging 
+Agreement or an Ancillary Document;
+(iii)no breach of any representation, warranty, undertaking or other term of (or default 
+or event of default under) an Existing Target Debt Document or any document 
+relating to existing financing arrangements of or any instrument constituting, 
+documenting or evidencing any indebtedness made available to or guaranteed or 
+secured by any member of the Group or the Target Group and existing immediately 
+prior to the Closing Date arising as a direct or indirect result of any member of the 
+Group or the Target Group entering into and/or performing its obligations under 
+any Transaction Document, or otherwise, or carrying out the Transaction or any 
+other transactions contemplated by the Transaction Documents;
+(iv)prior to the Closing Date, no act or omission on the part of any member of the 
+Target Group (including any procurement obligation in relation to any member of 
+the Target Group) or breach of any representation, warranty, undertaking or other 
+term of (or Default or Event of Default under) any Finance Document by any 
+member of the Target Group or any other circumstance relating to the Target 
+Group;
+(v)no Withdrawal Event; 
+(vi)prior to the Control Date:
+(A) where a member of the Group undertakes to procure compliance by 
+members of the Target Group to any term of the Finance Documents or 
+where any term of the Finance Documents is expressed directly or 
+indirectly to apply to a member of the Target Group, such term, 
+undertaking or requirement will be subject to all limitations and 
+restrictions on the influence such member of the Group may exercise as a 
+direct or indirect shareholder of the Target (or the access it has to the 
+relevant information in such capacity, as applicable) in accordance with</p>
+<p>KE 39675-89:114878275.43 224 Project Neptune - Senior Facilties Agreementany Applicable Securities Law (including the rights and interests of 
+minority shareholders of the Target and the corporate governance rules 
+applicable to the Target Group) (and, for the avoidance of doubt, no 
+breach of any such term, undertaking or requirement shall occur if having 
+exercised all such influence, the relevant term, undertaking or requirement 
+is nevertheless breached); and
+(B) no representations or undertakings shall be, in each case, given or deemed 
+to be given by or apply to a member of the Target Group; or
+(vii)other than for the Lenders under a Revolving Facility, any breach or non-
+compliance with respect to any requirement of Clause 26.2 ( Financial Condition) 
+unless a Declared RCF Default is continuing,
+shall (or shall be deemed to) constitute, or result in, a breach of any representation, 
+warranty, undertaking or other term in the Finance Documents or a Default or an Event of 
+Default and shall be expressly permitted under the terms of the Finance Documents 
+provided that whilst a Withdrawal Event in and of itself shall not be deemed to constitute 
+a breach of any representation and warranty or undertaking in the Finance Documents or 
+result in the occurrence of an Event of Default, if the occurrence of a Withdrawal Event 
+otherwise results in the occurrence of a breach of any representation and warranty or 
+undertaking in the Finance Documents or results in the occurrence of an Event of Default, 
+each such circumstance shall not be deemed to be permitted under the terms of the Finance 
+Documents pursuant to this Clause 28.8 and shall constitute a breach of any representation 
+and warranty or undertaking in the Finance Documents or result in the occurrence of an 
+Event of Default under the Finance Documents in accordance with the terms thereof.
+(b) For the purposes of this Clause 28.8, &quot;Withdrawal Event&quot; means the withdrawal of any 
+participating member state of the EU from the single currency of the participating member 
+states of the EU and/or the redenomination of the euro into any other currency by the 
+government of any current or former participating member state of the EU and/or the 
+withdrawal (or any governmental decision to withdraw or any vote or referendum electing 
+to withdraw) of any member state from the EU, including Brexit.
