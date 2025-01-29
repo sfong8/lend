@@ -26,3 +26,5 @@ for i, chunk in enumerate(chunks):
     print(f"Chunk {i+1}:")
     print(chunk)
     print("\n" + "-"*40 + "\n")
+
+financial_convenent = [x for x in chunks if 'EQUITY CURE' in x.upper()]
