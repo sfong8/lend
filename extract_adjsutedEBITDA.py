@@ -14,7 +14,7 @@ def extract_headers_and_content(text, main_section_extract=True):
                                              Defaults to True.
 
     Returns:
-        list: A list of tuples, where each tuple contains the header and its corresponding content.
+        list: A list of tuples, where each tuple contains the header and its corresponding content. as
     """
 
     if main_section_extract:
