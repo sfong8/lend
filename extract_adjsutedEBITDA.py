@@ -179,6 +179,8 @@ for file_name in os.listdir('./markdown/'):
     temp_df2 = exceptional_item_term(file_name,adjusted_ebitda_exist)
     temp_df3 = adjusted_ebidta_cap(file_name,adjusted_ebitda_exist)
     master_df = pd.concat([master_df,temp_df1,temp_df2,temp_df3])
+
+master_df.to_csv('adj_ebidta_csv.csv',index=None)
 #check if losses is in next
 name_file = 'dla_piper.md'
 # adjusted_ebitda_losses = '\n`\n\n\n'.join([x.replace('\n','') for x in test3.split('\n\n') if 'LOSSES' in x])
